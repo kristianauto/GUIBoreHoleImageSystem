@@ -1,0 +1,12 @@
+192.168.137.63
+Oxygen
+Pressure
+Light sensor
+NA
+Extra lights
+Water sample
+NA
+NA
+10.0 6.0 2.0
+0.07 0.07 0.07
+0.01 0.01 0.01

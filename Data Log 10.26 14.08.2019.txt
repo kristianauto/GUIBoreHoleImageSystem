@@ -1,0 +1,17 @@
+
+
+----- New session! -----
+
+               | Pressure         | Humidity        | TempOutside      | TempTop      | TempCamera      | DewPoint      
+Time: 10:26:48 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:49 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:50 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:51 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:52 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:53 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:54 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:55 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:56 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:57 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:58 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 10:26:59 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0

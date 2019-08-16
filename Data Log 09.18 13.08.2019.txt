@@ -1,0 +1,13 @@
+
+
+----- New session! -----
+
+               | Pressure         | Humidity        | TempOutside      | TempTop      | TempCamera      | DewPoint      
+Time: 09:18:24 | Pressure: 1000.0 | Humidity: 0.0 | TempOutside: 0.0 | TempTop: 0.0 | TempCamera: 0.0 | DewPoint: 0.0
+Time: 09:18:25 | Pressure: 1011.2 | Humidity: 39.0 | TempOutside: 26.0 | TempTop: 26.0 | TempCamera: 31.0 | DewPoint: 11.0
+Time: 09:18:26 | Pressure: 1011.2 | Humidity: 39.0 | TempOutside: 26.0 | TempTop: 26.0 | TempCamera: 32.0 | DewPoint: 11.0
+Time: 09:18:27 | Pressure: 1011.2 | Humidity: 39.0 | TempOutside: 26.0 | TempTop: 26.0 | TempCamera: 32.0 | DewPoint: 11.0
+Time: 09:18:28 | Pressure: 1011.2 | Humidity: 39.0 | TempOutside: 26.0 | TempTop: 26.0 | TempCamera: 32.0 | DewPoint: 11.0
+Time: 09:18:29 | Pressure: 1011.2 | Humidity: 39.0 | TempOutside: 26.0 | TempTop: 26.0 | TempCamera: 32.0 | DewPoint: 11.0
+Time: 09:18:30 | Pressure: 1011.2 | Humidity: 39.0 | TempOutside: 26.0 | TempTop: 26.0 | TempCamera: 32.0 | DewPoint: 11.0
+Time: 09:18:31 | Pressure: 1011.2 | Humidity: 39.0 | TempOutside: 26.0 | TempTop: 26.0 | TempCamera: 32.0 | DewPoint: 11.0
